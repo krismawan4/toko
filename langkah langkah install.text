@@ -2,7 +2,7 @@ helo gan dari zerokifaco
 
 perintah menjalankan aplikasi
 
-1. composer update
+1. composer install
 2. rename .env example menjadi .env dan setting database,username dan password sesui masing-masing 
 3. php artisan:keyGenerate
 4. php artisan migrate
